@@ -5,8 +5,8 @@ This project aims to create a basic website using knowledge gained through the "
 
 This project showcases my understanding and application of the fundamentals of HTML, including...
  - Boilerplate generation and use
- - The application of descending headers (<h0>)
- - The use of relative and absolute links (<a href="">)
- - The insertion of images (<img src="" alt="">)
- - The appropriate choice of unsorted (<ul>) and sorted (<ol>) lists (<li>)
- - The separation of text using paragraphs (<p>)
+ - The application of descending headers
+ - The use of relative and absolute links
+ - The insertion of images
+ - The appropriate choice of unsorted and sorted lists
+ - The separation of text using paragraphs
